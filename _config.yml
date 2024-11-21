@@ -24,7 +24,8 @@ author:
   avatar: "profile.png"
   name             : "Benmeng(Matthew) Lyu"
   pronouns: # example: "she/her"  
-  bio: "Quantitative Researcher // Ph.D. in Applied Mathematics"
+  bio: "Quantitative Researcher"
+  bio: "Ph.D in Applied Mathematics"
   location         : "Hong Kong SAR"
   employer: "University of Hong Kong"
   uri              : # URL
@@ -57,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "benmeng-lyu-39a8b0180/"
+  linkedin         : "benmeng-lyu-39a8b0180"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
