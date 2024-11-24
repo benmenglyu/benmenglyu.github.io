@@ -16,21 +16,19 @@ Education Background
 **The University of Hong Kong**
 
 * Ph.D., Major in Applied Mathematics, Department of Mathematics.
-* Period Sep 2019 - Nov 2023
+* Period: Sep 2019 - Nov 2023
 * Research Interests: Portfolio Optimization; Operational Research; Quantitative Finance; Stochastic Control.
 
 **The Chinese University of Hong Kong**
 
 * Visiting Student, Department of Mathematics.
-* Period Sep 2022 - Dec 2022
+* Period: Sep 2022 - Dec 2022
 
 **Southern University of Science and Technology**
 
 * Bachelor of Economics, Major in Financial Mathematics (GPA3.72/4), Department of Mathematics
-* Period Sep 2015 - Jul 2019
+* Period: Sep 2015 - Jul 2019
 * Main Courses: Linear Algebra, Mathematical Statistics, Applied Stochastic Process, Computational Finance, Differential Equation, Real Analysis, Econometrics, Asset Pricing and Risk Management, Derivatives.
-
-Like many other Jekyll-based GitHub Pages templates, Academic Pages lets you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like WordPress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
@@ -43,16 +41,25 @@ Getting started
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Getting started Experience
+Experience
 ======
 
-Getting started Publications
+Publications
+======
+* Sini Guo, Jia-Wen Gu, Wai-Ki Ching, Benmeng Lyu. "Adaptive online mean-variance portfolio selection with transaction costs." Quantitative Finance 24.1 (2024): 59-82.
+* Benmeng Lyu, Boqian Wu, Sini Guo, Jia-Wen Gu, Wai-Ki Ching. "Robust online portfolio optimization with cash flows." Omega 129 (2024): 103169.
+* Boqian Wu, Benmeng Lyu, Jiawen Gu. "Weighted Multivariate Mean Reversion for Online Portfolio Selection." Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2023.
+
+Ongoing Projects
 ======
 
-Getting started Ongoing Projects
+Teaching Assitant
 ======
 
-Getting started Teaching Assitant
+Teaching Assitant Social Activities
+======
+
+Awards
 ======
 
 Site-wide configuration
