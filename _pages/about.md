@@ -56,8 +56,10 @@ Ongoing Projects
 Teaching Assitant
 ======
 
-Teaching Assitant Social Activities
+
+Social Activities
 ======
+
 
 Awards
 ======
