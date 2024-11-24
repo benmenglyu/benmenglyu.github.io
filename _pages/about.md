@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is a website's front page powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+# This is a website's front page powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored # in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other # content, and have your own site for free, with no ads!
 
 My name is Benmeng Lyu.
 
@@ -49,6 +49,9 @@ Publications
 * Sini Guo, Jia-Wen Gu, Wai-Ki Ching, Benmeng Lyu. "Adaptive online mean-variance portfolio selection with transaction costs." Quantitative Finance 24.1 (2024): 59-82.
 * Benmeng Lyu, Boqian Wu, Sini Guo, Jia-Wen Gu, Wai-Ki Ching. "Robust online portfolio optimization with cash flows." Omega 129 (2024): 103169.
 * Boqian Wu, Benmeng Lyu, Jiawen Gu. "Weighted Multivariate Mean Reversion for Online Portfolio Selection." Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2023.
+
+Talks
+======
 
 Ongoing Projects
 ======
