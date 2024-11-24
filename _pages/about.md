@@ -13,10 +13,22 @@ My name is Benmeng Lyu.
 
 Education Background
 ======
-**University of Hong Kong**
+**The University of Hong Kong**
 
 * Ph.D., Major in Applied Mathematics, Department of Mathematics.
+* Period Sep 2019 - Nov 2023
 * Research Interests: Portfolio Optimization; Operational Research; Quantitative Finance; Stochastic Control.
+
+**The Chinese University of Hong Kong**
+
+* Visiting Student, Department of Mathematics.
+* Period Sep 2022 - Dec 2022
+
+**Southern University of Science and Technology**
+
+* Bachelor of Economics, Major in Financial Mathematics (GPA3.72/4), Department of Mathematics
+* Period Sep 2015 - Jul 2019
+* Main Courses: Linear Algebra, Mathematical Statistics, Applied Stochastic Process, Computational Finance, Differential Equation, Real Analysis, Econometrics, Asset Pricing and Risk Management, Derivatives.
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages lets you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
