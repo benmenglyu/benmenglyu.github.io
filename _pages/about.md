@@ -11,7 +11,7 @@ This is a website's front page powered by the [Academic Pages template](https://
 
 My name is Benmeng Lyu
 
-A data-driven personal website Education Background
+Education Background
 ======
 **University of Hong Kong**
 
@@ -30,6 +30,21 @@ Getting started
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
+
+Getting started Experience
+======
+
+Getting started Publications
+======
+
+Getting started Ongoing Projects
+======
+
+Getting started Teaching Assitant
+======
+
+Getting started Social Activities
+======
 
 Site-wide configuration
 ------
