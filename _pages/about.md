@@ -50,7 +50,8 @@ Publications
 
 Talks
 ======
-
+* 1st Operational Research Society of Hong Kong Young Researchers Workshop.  Nov 2022.
+* European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases. Sep 2023.
 Ongoing Projects
 ======
 
