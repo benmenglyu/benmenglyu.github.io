@@ -30,6 +30,9 @@ Education Background
 
 Experience
 ======
+* Quantitative Researcher, AQUMON, Jan 2024 - Now.
+* Quantitative Researcher Intern, China Construction Bank Fintech, Oct 2023 - Jan 2024.
+* Quantitative Analyst Intern, Topsperity Securities, Apr 2023 - Jul 2023.
 
 Publications
 ======
@@ -60,8 +63,8 @@ Social Activities
 
 Awards
 ======
-* 2019.09 Full Scholarship, HKU Postgraduate Scholarship 
-* 2019.07 Magna Cum Laude Graduate, Outstanding Graduate of SUSTech (top 3%)
-* 2019.06 Excellent Graduation Thesis, Undergraduate Thesis Selection of SUSTech
-* 2018.10 Excellent Student Scholarship of SUSTech
-* 2017.10 National Second Prize, China Undergraduate Mathematical Contest in Modeling (top 4.4%)
+* 2019 Full Scholarship, HKU Postgraduate Scholarship 
+* 2019 Magna Cum Laude Graduate, Outstanding Graduate of SUSTech (top 3%)
+* 2019 Excellent Graduation Thesis, Undergraduate Thesis Selection of SUSTech
+* 2018 Excellent Student Scholarship of SUSTech
+* 2017 National Second Prize, China Undergraduate Mathematical Contest in Modeling (top 4.4%)
