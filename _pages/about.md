@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Benmeng Lyu, and I am a quantitative researcher at AQUMON, focusing on Global Asset Allocation and Portfolio Optimization. Before that, I obtained my Ph.D. in Applied Mathematics from the University of Hong Kong, where I was fortunate to be supervised by Prof. Wai-Ki Ching(HKU) and Prof. Jiawen Gu(SUSTech). My research interests lie in Portfolio Optimization, Quantitative Finance, AI applications in Finance, and Stochastic Control. I am passionate about all aspects of mathematics, computer science, and finance, diving into the financial market with STEM tools.
+My name is Benmeng Lyu, and I am a quantitative researcher at AQUMON, focusing on Global Asset Allocation and Portfolio Optimization. Before that, I obtained my Ph.D. in Applied Mathematics from the University of Hong Kong, where I was fortunate to be supervised by Prof.Wai-Ki Ching(HKU) and Prof.Jiawen Gu(SUSTech). My research interests lie in Portfolio Optimization, Quantitative Finance, AI applications in Finance, and Stochastic Control. I am passionate about all aspects of mathematics, computer science, and finance, diving into the financial market with STEM tools.
 
 Education Background
 ======
 **The University of Hong Kong (HKU)**
 
 * Ph.D. Major in Applied Mathematics, Department of Mathematics.
-* Supervisors: Prof. Wai-Ki Ching(HKU) and Prof. Jiawen Gu(SUSTech)
+* Supervisors: [Prof.Wai-Ki Ching(HKU)](https://hkumath.hku.hk/~wkc/) and [Prof.Jiawen Gu(SUSTech)](https://math.sustech.edu.cn/e/gujiawen)
 * Period: Sep 2019 - Nov 2023
 * Research Interests: Portfolio Optimization; Operational Research; Quantitative Finance; Stochastic Control.
 
@@ -37,9 +37,9 @@ Experience
 
 Publications
 ======
-* Benmeng Lyu, Boqian Wu, Sini Guo, Jia-Wen Gu, Wai-Ki Ching. "Robust online portfolio optimization with cash flows." Omega 129 (2024): 103169.
-* Sini Guo, Jia-Wen Gu, Wai-Ki Ching, Benmeng Lyu. "Adaptive online mean-variance portfolio selection with transaction costs." Quantitative Finance 24.1 (2024): 59-82.
-* Boqian Wu, Benmeng Lyu, Jiawen Gu. "Weighted Multivariate Mean Reversion for Online Portfolio Selection." Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2023.
+* Benmeng Lyu, Boqian Wu, Sini Guo, Jia-Wen Gu, Wai-Ki Ching. "[Robust online portfolio optimization with cash flows.](https://www.sciencedirect.com/science/article/abs/pii/S0305048324001348)" Omega 129 (2024): 103169.
+* Sini Guo, Jia-Wen Gu, Wai-Ki Ching, Benmeng Lyu. "[Adaptive online mean-variance portfolio selection with transaction costs.](https://www.tandfonline.com/doi/abs/10.1080/14697688.2023.2287134)" Quantitative Finance 24.1 (2024): 59-82.
+* Boqian Wu, Benmeng Lyu, Jiawen Gu. "[Weighted Multivariate Mean Reversion for Online Portfolio Selection.](https://link.springer.com/chapter/10.1007/978-3-031-43424-2_16)" Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2023.
 
 Talks
 ======
