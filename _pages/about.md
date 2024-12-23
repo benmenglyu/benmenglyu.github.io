@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Benmeng Lyu.
+My name is Benmeng Lyu, and I am a quantitative researcher at AQUMON, focusing on Global Asset Allocation and Portfolio Optimization. Before that, I obtained my Ph.D. in Applied Mathematics from the University of Hong Kong, where I was fortunate to be supervised by Prof. Wai-Ki Ching(HKU) and Prof. Jiawen Gu(SUSTech). My research interests lie in Portfolio Optimization, Quantitative Finance, AI applications in Finance, and Stochastic Control. I am passionate about all aspects of mathematics, computer science, and finance, diving into the financial market with STEM tools.
 
 Education Background
 ======
 **The University of Hong Kong (HKU)**
 
 * Ph.D. Major in Applied Mathematics, Department of Mathematics.
+* Supervisors: Prof. Wai-Ki Ching(HKU) and Prof. Jiawen Gu(SUSTech)
 * Period: Sep 2019 - Nov 2023
 * Research Interests: Portfolio Optimization; Operational Research; Quantitative Finance; Stochastic Control.
 
@@ -36,30 +37,32 @@ Experience
 
 Publications
 ======
-* Sini Guo, Jia-Wen Gu, Wai-Ki Ching, Benmeng Lyu. "Adaptive online mean-variance portfolio selection with transaction costs." Quantitative Finance 24.1 (2024): 59-82.
 * Benmeng Lyu, Boqian Wu, Sini Guo, Jia-Wen Gu, Wai-Ki Ching. "Robust online portfolio optimization with cash flows." Omega 129 (2024): 103169.
+* Sini Guo, Jia-Wen Gu, Wai-Ki Ching, Benmeng Lyu. "Adaptive online mean-variance portfolio selection with transaction costs." Quantitative Finance 24.1 (2024): 59-82.
 * Boqian Wu, Benmeng Lyu, Jiawen Gu. "Weighted Multivariate Mean Reversion for Online Portfolio Selection." Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2023.
 
 Talks
 ======
-* 1st Operational Research Society of Hong Kong Young Researchers Workshop. Nov 2022. Hong Kong
 * European Conference on Machine Learning. Sep 2023. Turin, Italy.
+* 1st Operational Research Society of Hong Kong Young Researchers Workshop. Nov 2022. Hong Kong
 
 Ongoing Projects
 ======
-* Adjustable Cash Inflows Based Online Investment Decision Making.
 * Time Series Forecasting Based Online Portfolio Optimization with Risk Control.
+* Adjustable Cash Inflows Based Online Investment Decision Making.
+
 
 Teaching Assitant
 ======
+* MATH1013 University Mathematics II @ HKU
 * FMA302 Financial Economics @ SUSTech
 * MA407 Selected Topics on Financial Mathematics @ SUSTech
-* MATH1013 University Mathematics II @ HKU
   
 Social Activities
 ======
 * Journal Reviewer: European Journal of Operational Research (2022), North American Journal of Economics and Finance (2023).
 * President of Shuren College Student Union, SUSTech (2017-2018).
+* Volunteer Teaching in the Village School of Lianping County (2017).
 
 Awards
 ======
