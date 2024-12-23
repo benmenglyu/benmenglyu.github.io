@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Benmeng Lyu, and I am a quantitative researcher at AQUMON, focusing on Global Asset Allocation and Portfolio Optimization. Before that, I obtained my Ph.D. in Applied Mathematics from the University of Hong Kong, where I was fortunate to be supervised by Prof.Wai-Ki Ching(HKU) and Prof.Jiawen Gu(SUSTech). My research interests lie in Portfolio Optimization, Quantitative Finance, AI applications in Finance, and Stochastic Control.
+My name is Benmeng Lyu, and I am a quantitative researcher at AQUMON, focusing on Global Asset Allocation and Portfolio Optimization. Before that, I obtained my Ph.D. in Applied Mathematics from the University of Hong Kong, where I was fortunate to be supervised by Prof.Wai-Ki Ching(HKU) and Prof.Jiawen Gu(SUSTech). My research interests lie in Portfolio Optimization, Operational Research, AI applications in Finance, and Stochastic Control.
 
 I am passionate about all aspects of mathematics, computer science, and finance, diving into the financial market with STEM tools.
 
@@ -18,7 +18,7 @@ Education Background
 * Ph.D. Major in Applied Mathematics, Department of Mathematics.
 * Supervisors: [Prof.Wai-Ki Ching(HKU)](https://hkumath.hku.hk/~wkc/) and [Prof.Jiawen Gu(SUSTech)](https://math.sustech.edu.cn/e/gujiawen)
 * Period: Sep 2019 - Nov 2023
-* Research Interests: Portfolio Optimization; Operational Research; Quantitative Finance; Stochastic Control.
+* Research Interests: Portfolio Optimization; Operational Research; AI applications in Finance; Stochastic Control.
 
 **The Chinese University of Hong Kong (CUHK)**
 
