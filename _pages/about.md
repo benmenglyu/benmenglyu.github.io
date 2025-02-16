@@ -33,7 +33,7 @@ Education Background
 
 Experience
 ======
-* Quantitative Researcher, AQUMON, Jan 2024 - Now.
+* Quantitative Researcher, AQUMON, Now.
 * Quantitative Researcher Intern, China Construction Bank Fintech, Oct 2023 - Jan 2024.
 * Quantitative Analyst Intern, Topsperity Securities, Apr 2023 - Jul 2023.
 
@@ -54,7 +54,7 @@ Ongoing Projects
 * Adjustable Cash Inflows Based Online Investment Decision Making.
 
 
-Teaching Assitant
+Teaching Assistant
 ======
 * MATH1013 University Mathematics II @ HKU
 * FMA302 Financial Economics @ SUSTech
